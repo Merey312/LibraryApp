@@ -1,0 +1,14 @@
+/Users/merey/Documents/TransportApp/bin/Debug/net9.0/TransportApp
+/Users/merey/Documents/TransportApp/bin/Debug/net9.0/TransportApp.deps.json
+/Users/merey/Documents/TransportApp/bin/Debug/net9.0/TransportApp.runtimeconfig.json
+/Users/merey/Documents/TransportApp/bin/Debug/net9.0/TransportApp.dll
+/Users/merey/Documents/TransportApp/bin/Debug/net9.0/TransportApp.pdb
+/Users/merey/Documents/TransportApp/obj/Debug/net9.0/TransportApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merey/Documents/TransportApp/obj/Debug/net9.0/TransportApp.AssemblyInfoInputs.cache
+/Users/merey/Documents/TransportApp/obj/Debug/net9.0/TransportApp.AssemblyInfo.cs
+/Users/merey/Documents/TransportApp/obj/Debug/net9.0/TransportApp.csproj.CoreCompileInputs.cache
+/Users/merey/Documents/TransportApp/obj/Debug/net9.0/TransportApp.dll
+/Users/merey/Documents/TransportApp/obj/Debug/net9.0/refint/TransportApp.dll
+/Users/merey/Documents/TransportApp/obj/Debug/net9.0/TransportApp.pdb
+/Users/merey/Documents/TransportApp/obj/Debug/net9.0/TransportApp.genruntimeconfig.cache
+/Users/merey/Documents/TransportApp/obj/Debug/net9.0/ref/TransportApp.dll
