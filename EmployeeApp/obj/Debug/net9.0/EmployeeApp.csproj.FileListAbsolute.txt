@@ -1,0 +1,14 @@
+/Users/merey/EmployeeApp/bin/Debug/net9.0/EmployeeApp
+/Users/merey/EmployeeApp/bin/Debug/net9.0/EmployeeApp.deps.json
+/Users/merey/EmployeeApp/bin/Debug/net9.0/EmployeeApp.runtimeconfig.json
+/Users/merey/EmployeeApp/bin/Debug/net9.0/EmployeeApp.dll
+/Users/merey/EmployeeApp/bin/Debug/net9.0/EmployeeApp.pdb
+/Users/merey/EmployeeApp/obj/Debug/net9.0/EmployeeApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merey/EmployeeApp/obj/Debug/net9.0/EmployeeApp.AssemblyInfoInputs.cache
+/Users/merey/EmployeeApp/obj/Debug/net9.0/EmployeeApp.AssemblyInfo.cs
+/Users/merey/EmployeeApp/obj/Debug/net9.0/EmployeeApp.csproj.CoreCompileInputs.cache
+/Users/merey/EmployeeApp/obj/Debug/net9.0/EmployeeApp.dll
+/Users/merey/EmployeeApp/obj/Debug/net9.0/refint/EmployeeApp.dll
+/Users/merey/EmployeeApp/obj/Debug/net9.0/EmployeeApp.pdb
+/Users/merey/EmployeeApp/obj/Debug/net9.0/EmployeeApp.genruntimeconfig.cache
+/Users/merey/EmployeeApp/obj/Debug/net9.0/ref/EmployeeApp.dll
